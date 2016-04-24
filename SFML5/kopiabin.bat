@@ -1,0 +1,1 @@
+xcopy /Y /C /E "C:\Users\Piotr\Documents\Visual Studio 2015\SFML-2.3.2\bin\*.*" .
